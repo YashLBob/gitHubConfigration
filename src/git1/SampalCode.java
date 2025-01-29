@@ -1,5 +1,7 @@
 package git1;
 
+import java.util.Scanner;
+
 public class SampalCode {
 
 	public static void main(String[] args) 
@@ -15,7 +17,8 @@ public class SampalCode {
 		System.out.println(c);
 		 d = a*b;
 		 System.out.println(d);
-		
+		 
+		Scanner sc = new Scanner  (System.in);
 		
 	}
 
