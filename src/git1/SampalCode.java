@@ -20,6 +20,10 @@ public class SampalCode {
 		 
 		Scanner sc = new Scanner  (System.in);
 		
+		System.out.println("enter your name");
+		String yourName = sc.nextLine();
+		System.out.println("Your Name is :" + yourName);
+		
 	}
 
 }
