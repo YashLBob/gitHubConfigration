@@ -24,6 +24,11 @@ public class SampalCode {
 		String yourName = sc.nextLine();
 		System.out.println("Your Name is :" + yourName);
 		
+		System.out.println("enter your name");
+		String yourPAssword = sc.nextLine();
+		System.out.println("Your Name is :" + yourPAssword);
+		
+		
 	}
 
 }
