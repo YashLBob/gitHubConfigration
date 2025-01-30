@@ -19,7 +19,7 @@ public class SampalCode {
 		 System.out.println(d);
 		 
 		Scanner scm = new Scanner  (System.in);
-		
+	// hi this is yash	
 		System.out.println("enter your name");
 		String yourName = scm.nextLine();
 		System.out.println("Your Name is :" + yourName);
