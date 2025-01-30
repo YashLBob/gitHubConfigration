@@ -28,7 +28,7 @@ public class SampalCode {
 		String yourPAssword = scm.nextLine();
 		System.out.println("Your Name is :" + yourPAssword);
 		
-		System.out.println("enter your name");
+		System.out.println("enter your age");
 		int yourAge = scm.nextInt();
 		System.out.println("Your Name is :" + yourAge);
 		
