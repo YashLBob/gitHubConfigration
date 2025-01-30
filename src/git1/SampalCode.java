@@ -18,14 +18,14 @@ public class SampalCode {
 		 d = a*b;
 		 System.out.println(d);
 		 
-		Scanner sc = new Scanner  (System.in);
+		Scanner scm = new Scanner  (System.in);
 		
 		System.out.println("enter your name");
-		String yourName = sc.nextLine();
+		String yourName = scm.nextLine();
 		System.out.println("Your Name is :" + yourName);
 		
 		System.out.println("enter your name");
-		String yourPAssword = sc.nextLine();
+		String yourPAssword = scm.nextLine();
 		System.out.println("Your Name is :" + yourPAssword);
 		
 		
